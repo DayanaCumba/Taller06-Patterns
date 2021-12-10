@@ -7,7 +7,7 @@ package Interface;
 
 /**
  *
- * @author adria
+ * @author Xavi
  */
 public interface TransportStrategy {
     
