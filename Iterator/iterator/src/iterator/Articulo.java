@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author ab_al
+ * @author Alec S.G
  */
 public class Articulo {
     private String codigo;
