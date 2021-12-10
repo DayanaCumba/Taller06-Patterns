@@ -8,7 +8,7 @@ package iterator;
 
 /**
  *
- * @author ab_al
+ * @author Alec S.G
  */
 public class CompradorWeb implements interfacee.ArticuloIterator{
     private ArticuloWeb articuloweb;
