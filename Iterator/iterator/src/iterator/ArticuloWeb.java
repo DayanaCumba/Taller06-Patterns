@@ -9,7 +9,7 @@ import interfacee.ArticuloIterator;
 
 /**
  *
- * @author ab_al
+ * @author Alec S.G
  */
 public class ArticuloWeb implements interfacee.ColeccionProductos{
     private CompradorWeb comprador;
