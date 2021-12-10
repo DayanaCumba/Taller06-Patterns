@@ -7,7 +7,7 @@ package interfacee;
 
 /**
  *
- * @author ab_al
+ * @author Alec S.G
  */
 public interface ArticuloIterator {
     public boolean hasNext();
