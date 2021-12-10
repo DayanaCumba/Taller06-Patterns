@@ -7,7 +7,7 @@ package iterator;
 
 /**
  *
- * @author ab_al
+ * @author Alec S.G
  */
 public class Vendedor implements interfacee.ArticuloIterator {
 
