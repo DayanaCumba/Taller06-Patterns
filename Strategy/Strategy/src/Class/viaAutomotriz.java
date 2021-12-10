@@ -9,7 +9,7 @@ import Interface.TransportStrategy;
 
 /**
  *
- * @author adria
+ * @author Xavi
  */
 public class viaAutomotriz implements TransportStrategy {
 
